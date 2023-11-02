@@ -85,7 +85,7 @@ GO-SLAM consists of three parallel threads: **front-end tracking**, **back-end t
 You can create an anaconda environment called `go-slam`. For linux, you need to install **libopenexr-dev** before creating the environment.
 ```bash
 
-git clone --recursive https://github.com/youmi-zym/GO-SLAM
+git clone --recursive https://github.com/lidonghaoharry/GO-SLAM.git
 
 sudo apt-get install libopenexr-dev
     
